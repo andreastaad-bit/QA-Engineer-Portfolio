@@ -36,7 +36,25 @@ Aplicación web de concentración con frecuencias binaurales, doodle guiado y bo
 ---
 
 ### 2. Pruebas de API — JSONPlaceholder
-*Próximamente*
+Pruebas funcionales sobre una API REST pública usando Postman.
+
+**API probada:** https://jsonplaceholder.typicode.com
+
+#### Resumen de pruebas
+| Tipo | Cantidad |
+|---|---|
+| ✅ Casos PASS | 7 |
+| ❌ Casos FAIL | 3 |
+| Métodos probados | GET, POST, PUT, PATCH, DELETE |
+| Endpoints probados | /posts, /todos, /comments |
+
+#### Hallazgos principales
+- API acepta `PUT` sin body y responde `200 OK` — debería retornar `400 Bad Request`
+- API acepta `PATCH` sin body y responde `200 OK` — debería retornar `400 Bad Request`
+- API no valida campos requeridos en requests incompletos
+
+#### Archivos
+- [Casos de prueba completos](02-api-testing/QA_PORTFOLIO_ANDREA.xlsx)
 
 ---
 
