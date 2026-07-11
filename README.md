@@ -2,7 +2,7 @@
 
 ## Sobre mí
 Holaaa!
-Mi nombre es Andre Guerra , soy Inegiera en QA Juniro especializada en purebas manuales, pruebas de API, pruebas móbiles y de web.
+Mi nombre es Andre Guerra , soy Inegiera en QA Juniro especializada en purebas manuales, pruebas de API, pruebas móviles y de web.
 Este repósitorio cuena con algunos de mis proyectos QA como pruebas, su documentación, ejecicios de automatización de APIs, reportes de error entre otros.
 
 Skills
