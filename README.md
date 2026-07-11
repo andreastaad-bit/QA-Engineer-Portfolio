@@ -1,18 +1,43 @@
 # Andrea Guerra — QA Engineer Portfolio
 
 ## Sobre mí
-QA Engineer con experiencia en pruebas exploratorias, documentación de bugs y pruebas de API. 
-Apasionada por la calidad del software y la mejora continua.
+Holaaa!
+Mi nombre es Andre Guerra , soy Inegiera en QA Juniro especializada en purebas manuales, pruebas de API, pruebas móbiles y de web.
+Este repósitorio cuena con algunos de mis proyectos QA como pruebas, su documentación, ejecicios de automatización de APIs, reportes de error entre otros.
 
-📧 andreadelaluz.g.v@gmail.com
+Skills
+
+✔ Functional Testing
+
+✔ Regression Testing
+
+✔ Exploratory Testing
+
+✔ API Testing
+
+✔ Mobile Testing
+
+✔ Web Testing
+
+✔ SQL
+
+✔ Postman
+
+✔ Jira
+
+✔ Python
+
+✔ Pytest
+
+
+📧 andreadelaluz.g.v@gmail
 🔗 [LinkedIn](www.linkedin.com/in/andrea-de-la-luz-guerra-vázquez)
 🌐 [focusmodeon.lat](https://focusmodeon.lat)
 
 ---
+## PROYECTS 
 
-## Proyectos
-
-### 1. Focus Mode On — Pruebas Exploratorias
+###  Focus Mode On — Pruebas Exploratorias
 Aplicación web de concentración con frecuencias binaurales, doodle guiado y box breathing.
 
 **App en producción:** https://focusmodeon.lat
