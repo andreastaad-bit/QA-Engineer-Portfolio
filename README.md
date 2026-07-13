@@ -8,11 +8,11 @@ Manual QA Engineer
 ------------------------------------------------------------------------
 
 ### 🧑 About Me
-Hi!! I am Andrea Guerra, a Junior Manual QA Engineer from Mexico passionate about quality and continuous learning.
+***Hi!! I am Andrea Guerra, a Junior Manual QA Engineer from Mexico passionate about quality and continuous learning.***
 
-I specialize in manual testing for web and mobile applications, REST API testing, bug reporting and test documentation.
+***I specialize in manual testing for web and mobile applications, REST API testing, bug reporting and test documentation.
 I'm currently strengthening my skills in Python, SQL, and test automation while building real-world QA projects.
-My goal is not only to find bugs, but to understand how users interact with a product and contribute to building reliable, intuitive, and high-quality software.
+My goal is not only to find bugs, but to understand how users interact with a product and contribute to building reliable, intuitive, and high-quality software.***
 ------------------------------------------------------------------------
 
 ### In this project you´ll find:
