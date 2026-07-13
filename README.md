@@ -28,19 +28,19 @@ My goal is not only to find bugs, but to understand how users interact with a pr
 
 ### 🛠 Skills
 
--Manual Testing
--API Testing
--Mobile Testing
--Regression Testing
--Exploratory Testing
--JIRA
--Postman
--SQL
--Python
--Git
--Github
--Chrome DevTools
--Android Emulator
+- Manual Testing
+- API Testing
+- Mobile Testing
+- Regression Testing
+- Exploratory Testing
+- JIRA
+- Postman
+- SQL
+- Python
+- Git
+- Github
+- Chrome DevTools
+- Android Emulator
 
 ------------------------------------------------------------------------
 ## ⭐ Featured Projects
