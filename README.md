@@ -15,14 +15,14 @@ I'm currently strengthening my skills in Python, SQL, and test automation while 
 My goal is not only to find bugs, but to understand how users interact with a product and contribute to building reliable, intuitive, and high-quality software.***
 ------------------------------------------------------------------------
 
-### In this project you´ll find:
-*Manual testing projects 
-*Mobile testing
-*API testing
-*Bug reports
-*Test cases
-*Exploratory testing
-*Automation practice
+### In this project you´ll find:👌
+- Manual testing projects 
+- Mobile testing
+- API testing
+- Bug reports
+- Test cases
+- Exploratory testing
+- Automation practice
 
 ------------------------------------------------------------------------
 
