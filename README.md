@@ -16,14 +16,13 @@ My goal is not only to find bugs, but to understand how users interact with a pr
 ------------------------------------------------------------------------
 
 ### In this project you´ll find:
-
--Manual testing projects 
--Mobile testing
--API testing
--Bug reports
--Test cases
--Exploratory testing
--Automation practice
+*Manual testing projects 
+*Mobile testing
+*API testing
+*Bug reports
+*Test cases
+*Exploratory testing
+*Automation practice
 
 ------------------------------------------------------------------------
 
