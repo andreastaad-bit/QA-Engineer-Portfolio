@@ -29,7 +29,37 @@ My goal is not only to find bugs, but to understand how users interact with a pr
 
 ### 🛠 Tech Stack
 
-Postman • Jira • DevTools • SQL • Python • Git • GitHub • Android Emulator • 
+Postman • Jira • DevTools • SQL • Python • Git • GitHub • Android Emulator 
+
+
+------------------------------------------------------------------------
+
+### Skills
+
+-Manual Testing
+-API Testing
+-Mobile Testing
+-Rgression Testing
+-Exploratory Testing
+-JIRA
+-Postman
+-SQL
+-Python
+-Git
+-Github
+-Chrome DevTools
+-Android Emulator
+
+------------------------------------------------------------------------
+
+### Featured Projects
+
+Project                                    Description
+-----------------------------------------------------------------------
+Urban Scooter                              Complete QA project for Web, Mobile and API
+Focus Mode On                              Functional testing of a study web application
+Urban Grocers API                          API automation with Python & Pytest 
+
 
 ------------------------------------------------------------------------
 
@@ -39,4 +69,11 @@ Postman • Jira • DevTools • SQL • Python • Git • GitHub • Android 
 - SQL
 - API Automation
 - Software Testing Best Practices
+
+  -------------------------------------------------------------------------
+
+  Certifications
+  -Tripllete
+  -English ( EF SET C1 Advanced)
+  
 
