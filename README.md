@@ -51,13 +51,22 @@ My goal is not only to find bugs, but to understand how users interact with a pr
 
 <img width="1283" height="721" alt="image" src="https://github.com/user-attachments/assets/b36860f1-5f00-48f1-af28-1f0e2b6ade3d" />
 
+
+
+
 | 🎯 **Focus Mode On** | Functional testing and usability evaluation of a study web application. |
 
 <img width="1455" height="587" alt="image" src="https://github.com/user-attachments/assets/8a6246e9-3837-48ec-8968-3b72ee78fcb5" />
 
+
+
+
 | 🤖 **Digital SOP System for Restaurants | Designed a digital Standard Operating Procedures (SOP) systme to standarize workflow, imprve operational efficiency, and support buisness scalability.
 
 <img width="1487" height="557" alt="image" src="https://github.com/user-attachments/assets/f62170ba-8c07-4f8a-8652-0bfaae387184" />
+
+
+
 
 
 
