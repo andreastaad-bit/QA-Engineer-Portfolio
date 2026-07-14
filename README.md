@@ -1,3 +1,9 @@
+
+
+
+<img width="1983" height="793" alt="banner portfolio" src="https://github.com/user-attachments/assets/60232efd-c30d-49cc-90c0-f92a10673bf3" />
+
+
 👋 Andrea Guerra
 
 Manual QA Engineer
