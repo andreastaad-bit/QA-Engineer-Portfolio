@@ -3,7 +3,7 @@
 
 
 
-##Focus Mode On is a web application designed to help users improve concentration during study or work sessions by combining structured focus blocks, ambient sounds, breathing exercises, and scheduled breaks.
+## Focus Mode On is a web application designed to help users improve concentration during study or work sessions by combining structured focus blocks, ambient sounds, breathing exercises, and scheduled breaks.
 The application was created as a personal project to provide a distraction-free environment without advertisements or subscription fees commonly found in existing productivity platforms.
 The objective of this testing effort is to verify the application's functionality, usability, responsiveness, and overall user experience before release.
 
