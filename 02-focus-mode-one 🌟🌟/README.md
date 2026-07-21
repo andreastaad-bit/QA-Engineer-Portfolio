@@ -3,7 +3,7 @@
 
 ## Overview
 <img width="1602" height="586" alt="gif_focus_mode" src="https://github.com/user-attachments/assets/b51ab8a6-8ed4-470d-a2c0-081b271ac601" />
-----
+---
 <img width="1590" height="842" alt="Captura de pantalla 2026-07-21 113342" src="https://github.com/user-attachments/assets/10bb9ab8-9054-4a57-8db0-48af4d1439b3" />
 
 
