@@ -1,5 +1,5 @@
 
-#Project Overview <img width="600" height="600" alt="Suggestion" src="https://github.com/user-attachments/assets/b649dbdd-c271-4cf8-8746-e6b5f0bf9520" />
+# Project Overview>
 
 
 
@@ -8,7 +8,7 @@ The application was created as a personal project to provide a distraction-free 
 The objective of this testing effort is to verify the application's functionality, usability, responsiveness, and overall user experience before release.
 
 ***
-#Testing Objectives
+# Testing Objectives
 
 - Verify all timers work correctly.
 - Verify adjusting each study session was possible.
@@ -27,7 +27,7 @@ The objective of this testing effort is to verify the application's functionalit
 - Verify error handling.
 - Verify session transitions.
 ***
-#Scope
+# Scope
 - Home page
 - Pomodoro timer
 - Doodle timer
@@ -43,7 +43,7 @@ The objective of this testing effort is to verify the application's functionalit
 - Video generation
 - Offline templates
 ***
-#Out of Scope
+# Out of Scope
 
 The following testing activities were not included in this testing cycle:
 
@@ -68,7 +68,7 @@ Test Type
 - Responsive Testing
 - Smoke Testing
 ***
-#Test Environment
+# Test Environment
 Operating System
 
 Windows 11
@@ -87,13 +87,13 @@ Mobile Resolution
 
 390x844
 ***
-#Entry Criteria
+# Entry Criteria
 - Website successfully deployed
 - Application accessible
 - No critical deployment errors
 - Required assets loaded
 ***
-#Exit Criteria
+# Exit Criteria
 - Critical bugs fixed
 - Smoke test passed
 - All planned test cases executed
@@ -102,7 +102,7 @@ Mobile Resolution
 - Regression testing completed
 
 ***
-#Risks
+# Risks
 - Browser compatibility issues
 - Timer synchronization
 - Audio autoplay restrictions
@@ -110,7 +110,7 @@ Mobile Resolution
 - Performance degradation after prolonged use
 - Responsive layout inconsistencies
 ***
-#Deliverables
+# Deliverables
 - Test Plan
 - Test Cases
 - Bug Reports
