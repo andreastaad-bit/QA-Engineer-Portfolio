@@ -1,5 +1,5 @@
 
-# Focus Mode On
+# Focus Mode On 💡
 
 ## Overview
 <img width="1602" height="586" alt="gif_focus_mode" src="https://github.com/user-attachments/assets/b51ab8a6-8ed4-470d-a2c0-081b271ac601" />
