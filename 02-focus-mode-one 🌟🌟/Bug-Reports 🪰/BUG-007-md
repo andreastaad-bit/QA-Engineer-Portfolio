@@ -1,0 +1,76 @@
+# BUG-007 - Skip Button Does Not Navigate to the Selected Study Block
+
+## Summary
+
+The **Skip** button in the study schedule does not navigate to the selected study block. While the session is playing, clicking **Skip** has no effect. When the session is paused, the interface appears to jump to the selected block, but playback resumes from the beginning instead.
+
+---
+
+## Bug ID
+
+**FMOA-007**
+
+---
+
+## Severity
+
+**Major**
+
+---
+
+## Priority
+
+**High**
+
+---
+
+## Environment
+
+- **Application:** Focus Mode On
+- **Website:** https://focusmodeon.lat/
+- **Browser:** Opera GX
+- **Operating System:** Windows 11
+- **Browser Engine:** Chromium 149.0.7827.197
+
+---
+
+## Preconditions
+
+- Open the Focus Mode On website.
+- Start any study session.
+
+---
+
+## Steps to Reproduce
+
+1. Open the Focus Mode On website.
+2. Scroll down to the **Study Schedule** section.
+3. Modify the schedule if desired.
+4. Start the study session.
+5. Click the **Skip** button located in the top-right corner of any study block.
+6. Repeat the test while the session is paused.
+
+---
+
+## Expected Result
+
+Clicking the **Skip** button should immediately navigate to the selected study block, regardless of whether the session is currently playing or paused.
+
+---
+
+## Actual Result
+
+- While the session is playing, clicking **Skip** only causes a brief visual glitch and no navigation occurs.
+- While the session is paused, the interface appears to move to the selected block, but pressing **Play** restarts the session from the beginning instead of continuing from the selected block.
+
+---
+
+## Workaround
+
+No workaround available.
+
+---
+
+## Status
+
+Resolved ✅
