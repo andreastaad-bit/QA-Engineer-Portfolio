@@ -27,3 +27,9 @@ Features include:
 - CSS
 - Responsive Design
 - Operational Standardization
+
+  ## Problem
+  Restaurants rely on printed manuals that are difficult to update and access.
+
+## Solution 
+  A responsive digital SOP system that centralizes operational procedures and training materials on any device.
