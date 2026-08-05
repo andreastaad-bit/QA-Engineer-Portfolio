@@ -9,7 +9,8 @@ The objective of this project is to validate the API's CRUD operations, authenti
 
 > **Note:** Restful Booker is an open-source practice API. Since it is designed for testing purposes, the database is periodically reset, meaning previously created bookings and authentication tokens may no longer be available.
 >
-> ## Objectives
+
+ ## Objectives
 
 The main objective of this project was to strengthen my understanding of REST API testing by working with a complete CRUD workflow in Postman.
 
