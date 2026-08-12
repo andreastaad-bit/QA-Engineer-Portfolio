@@ -1,7 +1,7 @@
 |  *FIELD*  |  *DETAILS*  |
 |------------|------------|
 |  *ID*  |  RBT-006  |
-|  *DESCRIPTION*  |  Verify de HTTP code and body response with no information in body request  |
+|  *DESCRIPTION*  |  Verify HTTP code and body response when sending an empty request  |
 |  *INFORMATION USED*  |  Empty  |
 |  *STEPS*  |  1.Open Postman <br> 2.Select POST method <br> 3.Use `/booking` as endpoint <br> 4.Leave body empty <br> 5.Send request <br>
 |  *EXPECTED RESULT*  |  HTTP 400 Bad request, no body  |
