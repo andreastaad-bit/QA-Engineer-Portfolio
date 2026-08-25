@@ -21,7 +21,6 @@ The main objective was to determine whether the issue was isolated to a specific
 | Responsive Layout |   ✔️   |   ✖️   | **BUG** |
 
 > **Note:** Chrome was used as the baseline/reference browser for comparison. The results do not imply that Chrome is the only officially supported browser by uTest.
-**Test Date:** August 25th 2026
 > 
 ## Browsers Tested
 
@@ -56,6 +55,8 @@ The uTest interface should maintain a consistent and usable layout across suppor
 ## Actual Result
 
 When accessing uTest through Opera, several UI elements were incorrectly rendered or positioned. The affected pages became difficult to read and navigate, with the profile page presenting a significant scrolling issue.
+
+**Test Date:** August 25th 2026
 
 ## Bug Report
 
