@@ -21,7 +21,8 @@ The main objective was to determine whether the issue was isolated to a specific
 | Responsive Layout |   ✔️   |   ✖️   | **BUG** |
 
 > **Note:** Chrome was used as the baseline/reference browser for comparison. The results do not imply that Chrome is the only officially supported browser by uTest.
-
+**Test Date:** August 25th 2026
+> 
 ## Browsers Tested
 
 * **Google Chrome** — Baseline / reference browser
