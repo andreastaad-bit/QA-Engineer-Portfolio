@@ -17,9 +17,8 @@ The main objective was to determine whether the issue was isolated to a specific
 | Profile           |   ✔️   |   ❌   | **BUG**     |
 | Navigation        |   ✔️   |   ❌   | **BUG**     |
 | Scrolling         |   ✔️   |   ❌   | **BUG**     |
-| Forms             |   ✔️   |   ?   | **PENDING** |
-| Links             |   ✔️   |   ?   | **PENDING** |
-| Responsive Layout |   ✔️   |   ?   | **PENDING** |
+| Links             |   ✔️   |   ✔️   | **PASS** |
+| Responsive Layout |   ✔️   |   ✖️   | **BUG** |
 
 > **Note:** Chrome was used as the baseline/reference browser for comparison. The results do not imply that Chrome is the only officially supported browser by uTest.
 
