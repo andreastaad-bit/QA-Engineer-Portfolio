@@ -189,14 +189,14 @@ The core user journey should remain functional and usable across both browsers. 
 | ----- | ---------------------------------- | :----: | :---: | ------ |
 | TS-01 | Landing Page UI Rendering          |  PASS  |  FAIL | 🔴     |
 | TS-02 | Landing Page Text Readability      |  PASS  |  FAIL | 🔴     |
-| TS-03 | Sign-In Page UI Consistency        |  PASS  |  PASS | 🟢     |
+| TS-03 | Sign-In Page UI Consistency        |  PASS  |  FAIL | 🔴     |
 | TS-04 | Sign-In Functionality              |  PASS  |  PASS | 🟢     |
 | TS-05 | Profile Page UI Rendering          |  PASS  |  FAIL | 🔴     |
 | TS-06 | Profile Page Scrolling             |  PASS  |  FAIL | 🔴     |
 | TS-07 | Main Navigation                    |  PASS  |  FAIL | 🔴     |
 | TS-08 | Page Layout During Navigation      |  PASS  |  FAIL | 🔴     |
-| TS-09 | Browser Window / Viewport Behavior |   TBD  |  TBD  | 🟡     |
-| TS-10 | Cross-Browser Usability Comparison |   TBD  |  TBD  | 🟡     |
+| TS-09 | Browser Window / Viewport Behavior |  PASS  |  FAIL | 🔴     |
+| TS-10 | Cross-Browser Usability Comparison |  PASS  |  FAIL | 🔴     |
 
 ### Status Legend
 
