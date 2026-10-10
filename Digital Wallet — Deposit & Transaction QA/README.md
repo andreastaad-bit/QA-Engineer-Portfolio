@@ -47,6 +47,11 @@ Se probarán diferentes escenarios relacionados con el ingreso de fondos:
 * Cancelación de una operación.
 * Comportamiento ante acciones inesperadas durante el proceso.
 
+
+El alcance del proyecto se centra en el flujo funcional de depósitos de una wallet digital ficticia. Se definieron escenarios para validar las entradas del usuario, los límites permitidos, el procesamiento de las transacciones, la actualización del saldo y el registro en el historial.
+
+La ejecución documentada comprende 20 casos de prueba. Los escenarios adicionales que no estén incluidos en esta ejecución se consideran oportunidades para ampliar la cobertura en futuras iteraciones.
+
 ### Transacciones
 
 Se verificará el comportamiento de las operaciones después de iniciar un depósito:
